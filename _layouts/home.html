@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - Yang Chao Lab</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">
+                    <h1><a href="{{ '/' | relative_url }}">Yang Chao Lab</a></h1>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+                    <li><a href="{{ '/team/' | relative_url }}">Team</a></li>
+                    <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
+                    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div class="hero">
+        <div class="container">
+            <h1>Welcome to Yang Chao Lab</h1>
+            <p>Advancing research through excellence and innovation</p>
+        </div>
+    </div>
+
+    <main class="container">
+        {{ content }}
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; {% now 'utc' | date: '%Y' %} Yang Chao Lab. All rights reserved.</p>
+            <p>{{ site.title }} &mdash; {{ site.description }}</p>
+        </div>
+    </footer>
+</body>
+</html>

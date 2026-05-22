@@ -1,0 +1,35 @@
+# Jekyll Configuration
+title: Yang Chao Lab
+description: "Research in [Your Research Area]"
+url: "https://cyangNYU.github.io"
+baseurl: "/yang_lab.github.io"
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme customization
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/cyangNYU" }
+    - { platform: twitter, user_url: "https://twitter.com" }
+    - { platform: linkedin, user_url: "https://linkedin.com" }
+
+# Collections
+collections:
+  team:
+    output: false
+  publications:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      type: pages
+    values:
+      layout: default
