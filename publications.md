@@ -8,7 +8,7 @@ permalink: /publications/
 
 1. **Does DrugCLIP Find the Right Pocket? A Systematic Evaluation of Binding-Site Identification Across 42 Drug Targets** 
 
-   J. Xu; X. Gu; P. Xian; <strong>C. Yang</strong> (corresponding author), *AI Chemistry*, 2026.  
+   B. Xie; X. Guo; P. Xiao; <strong>C. Yang</strong> (corresponding author), *AI Chemistry*, 2026.  
 
 ---
 
