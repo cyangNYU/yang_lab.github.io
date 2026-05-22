@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-# Yang Chao Lab
-
 ## Welcome to Our Research Group
 
 We are a dynamic research laboratory dedicated to advancing knowledge in computational chemistry, AI-driven drug discovery, and structure-based molecular design. Our research integrates computational chemistry, structure-based modeling, machine learning, and ultra-large-scale virtual screening to identify novel therapeutics and expand accessible chemical space for challenging biological targets

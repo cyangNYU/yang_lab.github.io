@@ -4,8 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-# Team Members
-
 ## Principal Investigator
 
 ### Prof. Yang Chao

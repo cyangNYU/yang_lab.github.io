@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 ## Research Overview
 
 The Yang Chao Lab develops computational and AI-driven approaches for small molecule drug discovery. Our research integrates computational chemistry, machine learning, structure-based molecular modeling, and ultra-large-scale virtual screening to accelerate the discovery of novel therapeutics.
@@ -45,6 +43,8 @@ Our lab is equipped with:
 - High-performance computing (HPC) resources for molecular simulations and virtual screening
 - GPU-accelerated machine learning infrastructure
 - Computational chemistry software for docking, molecular dynamics, and cheminformatics analysis
+
+---
 
 ## Funding
 

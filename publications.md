@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 ## 2026
 
 1. **Does DrugCLIP Find the Right Pocket? A Systematic Evaluation of Binding-Site Identification Across 42 Drug Targets**  
