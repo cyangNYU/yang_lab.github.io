@@ -40,4 +40,4 @@ For inquiries related to **prospective students**, please include:
 
 ## Links
 
-- www.pharm.suat-sz.edu.cn
+- [Faculty of Pharmaceutical Sciences](https://www.pharm.suat-sz.edu.cn)

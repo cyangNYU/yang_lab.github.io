@@ -24,4 +24,6 @@ We aim to bridge fundamental computational methodology development with practica
 
 ---
 
-**Contact**: yang.chao@suat-sz.edu.cn | **Location**: Faculty of Pharmaceutical Sciences, Shenzhen University of Advanced Technology (SUAT) 
+**Contact**: yang.chao@suat-sz.edu.cn
+
+**Location**: Faculty of Pharmaceutical Sciences, Shenzhen University of Advanced Technology (SUAT) 
