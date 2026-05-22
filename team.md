@@ -7,25 +7,29 @@ permalink: /team/
 ## Principal Investigator
 
 <div class="profile-container">
-  <img src="/yang_lab.github.io/assets/images/Chao_Yang.jpg" 
-       alt="Prof. Yang Chao" 
+  <img src="/yang_lab.github.io/assets/images/chao_yang.jpg"
+       alt="Prof. Yang Chao"
        class="profile-photo">
 
   <div class="profile-text">
 
-### Prof. Yang Chao
-**Position**: Assistant professor 
-**Email**: yang.chao@suat-sz.edu.cn
-**Office**: Room 624, Tianshu Building No.2
+    <h3>Prof. Yang Chao</h3>
 
-**Bio**: Prof. Chao Yang is a computational chemist specializing in AI-driven drug discovery, structure-based molecular design, and ultra-large-scale virtual screening. He received his Ph.D. in Computational Chemistry from New York University under the supervision of Prof. Yingkai Zhang. Prior to joining Shenzhen University of Advanced Technology (SUAT), he worked as a Postdoctoral Fellow at The Rockefeller University, where he contributed to the development of combinatorial docking methods and AI-accelerated virtual screening technologies. He also held research positions in the biotechnology industry, focusing on structure-based drug design, molecular modeling, and machine learning applications in medicinal chemistry.
+    <p><strong>Position:</strong> Assistant Professor</p>
 
-His research aims to advance next-generation computational approaches for discovering small molecule therapeutics by integrating molecular modeling, machine learning, and scalable chemical space exploration.
+    <p><strong>Email:</strong> yang.chao@suat-sz.edu.cn</p>
 
-**Research Interests**:
-- AI-assisted drug discovery and generative molecular design
-- Structure-based virtual screening and protein–ligand docking
-- Machine learning scoring functions and molecular modeling
+    <p><strong>Office:</strong> Room 624, Tianshu Building No.2</p>
+
+    <p><strong>Bio:</strong> Prof. Chao Yang is a computational chemist specializing in AI-driven drug discovery, structure-based molecular design, and ultra-large-scale virtual screening. He received his Ph.D. in Computational Chemistry from New York University under the supervision of Prof. Yingkai Zhang. Prior to joining Shenzhen University of Advanced Technology (SUAT), he worked as a Postdoctoral Fellow at The Rockefeller University, where he contributed to the development of combinatorial docking methods and AI-accelerated virtual screening technologies.</p>
+
+    <p><strong>Research Interests:</strong></p>
+
+    <ul>
+      <li>AI-assisted drug discovery and generative molecular design</li>
+      <li>Structure-based virtual screening and protein–ligand docking</li>
+      <li>Machine learning scoring functions and molecular modeling</li>
+    </ul>
 
   </div>
 </div>
