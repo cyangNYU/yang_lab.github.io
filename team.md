@@ -28,7 +28,7 @@ His research aims to advance next-generation computational approaches for discov
 
 ## Master's Students
 
-### [Bocheng Xie]
+### Bocheng Xie
 **Research Project**: Evaluating protein structure prediction models using small molecule binding pockets
 
 ---
