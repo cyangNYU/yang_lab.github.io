@@ -7,11 +7,12 @@ permalink: /contact/
 ## Laboratory Address
 
 **Yang Chao Lab**  
-Tianshu Building No.2, Room 624
-Faculty of Pharmaceutical Sciences
-Shenzhen University of Advanced Technology
-No.1 Gongchang Road, Guangming District
-Shenzhen, Guangdong, 518107
+
+Room 624, Tianshu Building No.2  
+Faculty of Pharmaceutical Sciences  
+Shenzhen University of Advanced Technology  
+No.1 Gongchang Road, Guangming District  
+Shenzhen, Guangdong 518107  
 China
 
 ---

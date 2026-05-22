@@ -34,7 +34,7 @@ We focus on developing next-generation computational methods that efficiently ex
 - Free energy estimation
 - Structure-guided ligand optimization
 
-**Publications**: See our [Publications](/publications/) page
+**Publications**: See our [Publications]({{ '/publications/' | relative_url }}) page
 
 ---
 
