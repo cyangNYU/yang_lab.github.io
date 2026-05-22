@@ -9,39 +9,18 @@ permalink: /contact/
 ## Laboratory Address
 
 **Yang Chao Lab**  
-[Building Name, Room Number]  
-[Department Name]  
-[University Name]  
-[Street Address]  
-[City, State, ZIP]  
-Country
+Tianshu Building No.2, Room 624
+Faculty of Pharmaceutical Sciences  
+Shenzhen University of Advanced Technology 
+No.1 Gongchang Road, Guangming District  
+Shenzhen, Guangdong, 518107 
+China
 
 ---
 
 ## Contact Details
 
-**Email**: [lab-email@university.edu]  
-**Phone**: +1 (XXX) XXX-XXXX  
-**Fax**: +1 (XXX) XXX-XXXX  
-
-**Office Hours**: [Days and times]  
-**Lab Access**: [Information about visiting]
-
----
-
-## Principal Investigator
-
-**Prof. Yang Chao**  
-Email: [personal-email@university.edu]  
-Office: [Building, Room]  
-
----
-
-## Directions
-
-[Provide directions to your lab location]
-
-**Parking**: [Information about campus parking]
+**Email**: yang.chao@suat-sz.edu.cn  
 
 ---
 
@@ -52,7 +31,7 @@ We are always interested in collaborating with researchers working on related pr
 - Are interested in joining our lab
 - Would like to discuss potential collaborations
 - Have questions about our research
-- Are interested in internship or research opportunities
+- Are interested in research opportunities
 
 For inquiries related to **prospective students**, please include:
 - Your CV/Resume
@@ -63,6 +42,4 @@ For inquiries related to **prospective students**, please include:
 
 ## Links
 
-- [Department Website]
-- [University Website]
-- [University Location Map]
+- www.pharm.suat-sz.edu.cn
