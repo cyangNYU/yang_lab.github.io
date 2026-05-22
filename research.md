@@ -10,6 +10,8 @@ The Yang Chao Lab develops computational and AI-driven approaches for small mole
 
 We focus on developing next-generation computational methods that efficiently explore massive chemical spaces, improve protein–ligand interaction prediction, and enable rational drug design for challenging biological targets.
 
+---
+
 ## Current Research Projects
 
 ### Project 1: AI-Accelerated Ultra-Large Virtual Screening

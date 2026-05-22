@@ -6,6 +6,13 @@ permalink: /team/
 
 ## Principal Investigator
 
+<div class="profile-container">
+  <img src="/yang_lab.github.io/assets/images/Chao_Yang.jpg" 
+       alt="Prof. Yang Chao" 
+       class="profile-photo">
+
+  <div class="profile-text">
+
 ### Prof. Yang Chao
 **Position**: Assistant professor 
 **Email**: yang.chao@suat-sz.edu.cn
@@ -19,6 +26,9 @@ His research aims to advance next-generation computational approaches for discov
 - AI-assisted drug discovery and generative molecular design
 - Structure-based virtual screening and protein–ligand docking
 - Machine learning scoring functions and molecular modeling
+
+  </div>
+</div>
 
 ---
 

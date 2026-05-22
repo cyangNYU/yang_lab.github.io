@@ -8,10 +8,15 @@ permalink: /contact/
 
 **Yang Chao Lab**  
 Tianshu Building No.2, Room 624
-Faculty of Pharmaceutical Sciences  
-Shenzhen University of Advanced Technology 
-No.1 Gongchang Road, Guangming District  
-Shenzhen, Guangdong, 518107 
+
+Faculty of Pharmaceutical Sciences
+
+Shenzhen University of Advanced Technology
+
+No.1 Gongchang Road, Guangming District
+
+Shenzhen, Guangdong, 518107
+ 
 China
 
 ---
@@ -40,4 +45,4 @@ For inquiries related to **prospective students**, please include:
 
 ## Links
 
-- [Faculty of Pharmaceutical Sciences](https://www.pharm.suat-sz.edu.cn)
+- [Faculty of Pharmaceutical Sciences](https://pharm.suat-sz.edu.cn/)
