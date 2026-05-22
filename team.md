@@ -7,7 +7,7 @@ permalink: /team/
 ## Principal Investigator
 
 <div class="profile-container">
-  <img src="/yang_lab.github.io/assets/images/chao_yang.jpg"
+  <img src="/yang_lab.github.io/assets/images/Chao_Yang.jpg"
        alt="Prof. Yang Chao"
        class="profile-photo">
 
