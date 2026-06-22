@@ -43,7 +43,7 @@ permalink: /team/
 ## Master's Students
 
 ### Bocheng Xie
-**Bio**: Bocheng received his undergraduate degree at Shihezi University, and he is pursuing this Master degree at SUAT & SUSTech. 
+**Bio**: Bocheng received his undergraduate degree at Shihezi University, and he is pursuing his Master degree at SUAT & SUSTech. 
 
 **Research Project**: Evaluating protein structure prediction models using small molecule binding pockets
 
@@ -51,6 +51,15 @@ permalink: /team/
 
 ## Undergraduate Research Assistants
 
+
+---
+
+## Visiting Students
+
+### Yutong Zhou
+**Bio**:  Yutong is an undergraduate student at Imperial College London.
+
+**Research Project**: Developing conditional deep learning models for ligand generation, with an interest in applying machine learning methods to molecular design and drug discovery.
 
 ---
 
