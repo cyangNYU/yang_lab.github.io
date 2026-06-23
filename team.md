@@ -57,7 +57,7 @@ permalink: /team/
 ## Visiting Students
 
 ### Yutong Zhou
-**Bio**:  Yutong is an undergraduate student at Imperial College London.
+**Bio**:  Yutong is an undergraduate student at University College London.
 
 **Research Project**: Developing conditional deep learning models for ligand generation, with an interest in applying machine learning methods to molecular design and drug discovery.
 
